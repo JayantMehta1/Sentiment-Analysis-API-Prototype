@@ -14,4 +14,4 @@ Output: negative
 # Inspiration
 I am currently building a tweeter application that fetches data from this API. This API can be used in other applications as well depending on what purpose it serves. 
 
-This API is inspired by Dan Taylor's tutorials.
+This API is inspired by Dan Taylor's tutorials. I am looking into exploring how to develop full stack applications. The Tweeter application has a user log in functionality and uses Python, Flask, Django, Docker, Azure, React.js, Node.js, and has CI/CD.
